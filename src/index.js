@@ -1,3 +1,3 @@
-import half from './half';
+import run from './cli';
 
-export default half;
+export default run;
