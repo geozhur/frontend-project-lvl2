@@ -1,6 +1,6 @@
 {
   "name": "gendiff-geozhur",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "license": "ISC",
   "description": "gendiff-games",
   "main": "dist/index.js",
