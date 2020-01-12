@@ -2,7 +2,7 @@
 install: install-deps
 
 run:
-	npx babel-node 'src/bin/hexlet.js' 10
+	npx babel-node 'src/bin/gendiff.js' -h
 
 install-deps:
 	npm install
